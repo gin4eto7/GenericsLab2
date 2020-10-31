@@ -1,0 +1,12 @@
+C:\Users\acer\source\repos\GenericsLab\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.exe
+C:\Users\acer\source\repos\GenericsLab\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.deps.json
+C:\Users\acer\source\repos\GenericsLab\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.runtimeconfig.json
+C:\Users\acer\source\repos\GenericsLab\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.runtimeconfig.dev.json
+C:\Users\acer\source\repos\GenericsLab\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.dll
+C:\Users\acer\source\repos\GenericsLab\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.pdb
+C:\Users\acer\source\repos\GenericsLab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\GenericsLab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.AssemblyInfo.cs
+C:\Users\acer\source\repos\GenericsLab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\GenericsLab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.dll
+C:\Users\acer\source\repos\GenericsLab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.pdb
+C:\Users\acer\source\repos\GenericsLab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.genruntimeconfig.cache
